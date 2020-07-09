@@ -1,0 +1,3 @@
+fooda|1
+foodb|2
+foodc|3
